@@ -1,0 +1,1 @@
+This is a basic Go app that demonstrates connection to a local PostgreSQL server and running queries on it
